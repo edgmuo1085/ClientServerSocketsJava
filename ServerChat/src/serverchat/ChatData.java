@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Aula_info
+ * @author otro
  */
 public class ChatData extends Thread {
 

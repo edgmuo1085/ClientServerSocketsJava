@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Aula_info
+ * @author otro
  */
 public class ClientChat extends javax.swing.JFrame implements Runnable {
 

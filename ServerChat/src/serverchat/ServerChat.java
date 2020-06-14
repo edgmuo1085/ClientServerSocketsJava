@@ -14,7 +14,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author Aula_info
+ * @author otro
  */
 public class ServerChat {
 
